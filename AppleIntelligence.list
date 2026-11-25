@@ -12,3 +12,4 @@ HOST,smoot.apple.com,AI
 HOST,apple-relay.akamaized.net,AI
 HOST,apple-relay.mask.apple-dns.net,AI
 HOST,api-siri-prod.apple.com,AI
+USER-AGENT,AI*,AI
