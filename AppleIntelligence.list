@@ -1,15 +1,15 @@
 # AppleIntelligence分流
 # Update 2026-11-26
 
-DOMAIN-SUFFIX,gateway.icloud.com,AI
-DOMAIN-SUFFIX,apple-relay.apple.com,AI
-DOMAIN-SUFFIX,apple-relay.fastly-edge.com,AI
-DOMAIN-SUFFIX,apple-relay.cloudflare.com,AI
-DOMAIN-SUFFIX,guzzoni.apple.com,AI
-DOMAIN-SUFFIX,cp4.cloudflare.com,AI
-DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com,AI
-DOMAIN-SUFFIX,smoot.apple.com,AI
-DOMAIN-SUFFIX,apple-relay.akamaized.net,AI
-DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net,AI
-DOMAIN-SUFFIX,api-siri-prod.apple.com,AI
+HOST,gateway.icloud.com,AI
+HOST,apple-relay.apple.com,AI
+HOST,apple-relay.fastly-edge.com,AI
+HOST,apple-relay.cloudflare.com,AI
+HOST,guzzoni.apple.com,AI
+HOST,cp4.cloudflare.com,AI
+HOST,gspe1-ssl.ls.apple.com,AI
+HOST,smoot.apple.com,AI
+HOST,apple-relay.akamaized.net,AI
+HOST,apple-relay.mask.apple-dns.net,AI
+HOST,api-siri-prod.apple.com,AI
 USER-AGENT,AI*,AI
